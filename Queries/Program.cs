@@ -17,6 +17,7 @@ namespace Queries
             {
                 Console.WriteLine(c.Name);
             }
+            //Make the window not close
             Console.WriteLine("Press enter to close...");
             Console.ReadLine();
 
